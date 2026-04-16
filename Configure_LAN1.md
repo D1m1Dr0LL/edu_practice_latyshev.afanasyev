@@ -1,4 +1,5 @@
-#Часть 1
+# Часть 1
+
 ## Шаг 1. Построить сеть с топологией
 <img width="2448" height="881" alt="image" src="https://github.com/user-attachments/assets/3f81aa5c-7da1-4a3c-8e6d-34934fc65992" />
 *Нужно зайти в командную строку (CLI)  и включить порты на устройствах с красными индикаторами(R1, R2, R3), те же команды для другой стороны только вместо Fa0/0 меняем на Fa0/1, так как другой порт*
@@ -39,6 +40,10 @@
 *Создали Management interface на SW1 (rus-nsk-sw1)*
 
 ## Шаг 10.
+<img width="700" height="840" alt="изображение" src="https://github.com/user-attachments/assets/a6b5b1fa-f4ec-42d6-a90f-111dc714eb24" />
+*Настройка SSHv2 на коммутаторах Новосибирска на rus-nsk-sw0*
+<img width="702" height="747" alt="изображение" src="https://github.com/user-attachments/assets/959cfcc1-7b7e-484e-b8a0-f3b05fb254e1" />
+*На rus-nsk-sw1*
 
 
 
