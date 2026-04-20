@@ -203,11 +203,51 @@
 
 *Настройка R3*
 
+## Шаг 3.
 
+<img width="666" height="411" alt="image" src="https://github.com/user-attachments/assets/90abf907-483d-4668-9125-b3d347d39747" />
 
+*Протокол резервирования R2*
 
+<img width="708" height="371" alt="image" src="https://github.com/user-attachments/assets/8f5d9bfc-bb88-4336-b59b-08fb90a9a937" />
 
+*R3 как резервный*
 
+# Часть 5. 
+
+## Шаг 1. 
+
+<img width="709" height="436" alt="image" src="https://github.com/user-attachments/assets/1ef2fb6c-1c9b-4ace-b479-a2e9c7eb3054" />
+
+*Настройка EIGRP на R1 nsk*
+
+<img width="700" height="708" alt="image" src="https://github.com/user-attachments/assets/2165f958-e788-43ca-999d-889bb7c60f44" />
+
+*Настройка EIGRP на R2 msk*
+
+<img width="706" height="707" alt="image" src="https://github.com/user-attachments/assets/9629f1c7-60a2-4e16-881f-afbf90e20f15" />
+
+*Настройка EIGRP на R3 msk*
+
+<img width="705" height="718" alt="image" src="https://github.com/user-attachments/assets/c62c825b-9288-4385-b892-2ed3970be233" />
+
+*Настройка EIGRP на MLS msk*
+
+## Шаг 2.
+
+<img width="700" height="965" alt="image" src="https://github.com/user-attachments/assets/c590158b-590d-47e3-aae1-afdff60a4b5f" />
+
+*Настройка SSH на SW2*
+
+<img width="700" height="895" alt="image" src="https://github.com/user-attachments/assets/f862cb98-6fcb-46f4-add7-5009dbc271dc" />
+
+*Настройка SSH на SW1*
+
+## Шаг 3.
+
+<img width="705" height="711" alt="image" src="https://github.com/user-attachments/assets/9a8ecc17-a0ec-4c64-84d7-03cda50d4f0d" />
+
+*Пропинговка с сервера*
 
 
 
