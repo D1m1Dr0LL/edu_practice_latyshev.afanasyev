@@ -249,6 +249,78 @@
 
 *Пропинговка с сервера*
 
+#Часть 6 
+
+## Шаг 1.
+
+<img width="701" height="700" alt="изображение" src="https://github.com/user-attachments/assets/7660bf53-9f63-48d9-a787-834611a35960" />
+
+*Ограничиdftv SSH на SW2 только с 10.0.0.100 и 2.0.0.100*
+
+## Шаг 2.
+
+<img width="701" height="709" alt="изображение" src="https://github.com/user-attachments/assets/9f8a2058-655b-4c4c-86d6-219dde014f85" />
+
+*Разрешаем доступ к веб-серверу только с PC 2.0.0.100, на rus-msk-mls1*
+
+## Шаг 3.
+
+<img width="703" height="709" alt="изображение" src="https://github.com/user-attachments/assets/1973ca41-91a2-4a4d-a6d7-177b9bcf7753" />
+
+* R2 и R3 могут пинговать всех, но НЕ ОТВЕЧАЮТ на пинги, на R2*
+
+<img width="703" height="709" alt="изображение" src="https://github.com/user-attachments/assets/ea27f2d6-af25-4aa1-8ae5-a3da8ef8473f" />
+
+*На R3*
+
+<img width="701" height="713" alt="изображение" src="https://github.com/user-attachments/assets/f44a80d5-cd71-40d5-b27a-03ed0f44dddd" />
+
+*Не пингуется*
+
+# Часть 7
+
+## Шаг 1-2.
+
+<img width="706" height="713" alt="изображение" src="https://github.com/user-attachments/assets/602518e5-087b-49b5-bd8a-0da126087034" />
+
+*Создаем loopback интерфейсы, на R1 (rus-nsk-r1)*
+
+<img width="698" height="712" alt="изображение" src="https://github.com/user-attachments/assets/f69757f7-bdfd-4eaa-84c7-5b64ef66cc2d" />
+
+*На R3 (rus-msk-r3)*
+
+## Шаг 3-4.
+
+<img width="702" height="716" alt="изображение" src="https://github.com/user-attachments/assets/f892427a-99b5-46ad-b17e-c27a6967195c" />
+
+*Настраиваем RIPv2 ТОЛЬКО на R1 и R3, на R1*
+
+<img width="703" height="712" alt="изображение" src="https://github.com/user-attachments/assets/6a039234-fc3c-44c3-bccb-23b6aaf68cab" />
+
+*На R3*
+
+## Шаг 5.
+
+<img width="700" height="711" alt="изображение" src="https://github.com/user-attachments/assets/9818ee1c-46d2-4448-86b9-3cfcd3f84daf" />
+
+*Настраиваем GRE туннель, на R1*
+
+<img width="700" height="712" alt="изображение" src="https://github.com/user-attachments/assets/4f66096e-a010-4017-8e33-116c44b1e4c4" />
+
+*На R3*
+
+## Шаг 6.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
