@@ -311,6 +311,35 @@
 
 ## Шаг 6.
 
+<img width="706" height="715" alt="изображение" src="https://github.com/user-attachments/assets/6aa24ca1-685d-4bb9-ab6d-5435df116c7a" />
+
+*Используем расширенный пинг для проверки*
+
+# Часть 8.
+
+## Шаг 1. 
+
+<img width="706" height="713" alt="изображение" src="https://github.com/user-attachments/assets/8e6cda72-66eb-4d60-b418-e4cda3e6a3fe" />
+
+*Настройка сервисов NTP и Syslog на R1*
+
+<img width="702" height="707" alt="изображение" src="https://github.com/user-attachments/assets/7b52ee35-8f40-403c-9c98-a3ca52793c1c" />
+
+*Настройка сервисов NTP и Syslog на R2*
+
+<img width="693" height="708" alt="изображение" src="https://github.com/user-attachments/assets/d1420c9d-7b96-4ef1-b3ec-6203869126b9" />
+
+*Настройка сервисов NTP и Syslog на R3*
+
+<img width="701" height="716" alt="изображение" src="https://github.com/user-attachments/assets/34c238c2-7fac-4398-b7cd-bc2da48fceea" />
+
+*Настройка сервисов NTP и Syslog на MLS*
+
+## Шаг 2.
+
+
+
+
 
 
 
