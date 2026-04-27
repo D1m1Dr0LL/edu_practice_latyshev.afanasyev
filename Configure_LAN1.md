@@ -337,6 +337,60 @@
 
 ## Шаг 2.
 
+<img width="705" height="712" alt="изображение" src="https://github.com/user-attachments/assets/ba760189-5d9c-4790-9889-adc3870c7684" />
+
+*Настройка SNMP на R2*
+
+<img width="701" height="704" alt="изображение" src="https://github.com/user-attachments/assets/a21f5546-1089-4ef5-ab7b-e33b350f4a2b" />
+
+*Настройка SNMP на R3*
+
+## Шаг 3.
+
+<img width="707" height="720" alt="изображение" src="https://github.com/user-attachments/assets/4c9258aa-59c7-4056-afb4-d0a2296cda8b" />
+
+*Telnet с AAA на R3*
+
+## Шаг 4. 
+
+<img width="704" height="718" alt="изображение" src="https://github.com/user-attachments/assets/e297fb5c-d5ed-45f6-b4ca-a338b62470bd" />
+
+*Настройка FTP на R2*
+
+## Шаг 5.
+
+<img width="703" height="715" alt="изображение" src="https://github.com/user-attachments/assets/bac68ccb-ffa9-4f5e-a2dc-8ab14ce99606" />
+
+
+*Копирование конфигурации R2 на FTP сервер*
+
+## Шаг 6.
+
+<img width="704" height="712" alt="изображение" src="https://github.com/user-attachments/assets/9429487f-f258-4b03-a561-938cf977694f" />
+
+*Отправить копию конфигурации R3 на сервер, используя протокол TFTP*
+
+## Шаг 7.
+
+<img width="699" height="741" alt="изображение" src="https://github.com/user-attachments/assets/eb44ab29-2bee-4d22-9d7f-3d6da509bbdb" />
+
+*Проверка команд boot system на R3*
+
+## Шаг 8.
+
+<img width="698" height="718" alt="изображение" src="https://github.com/user-attachments/assets/96e29ddf-eabd-49f8-933b-960c4a312ba9" />
+
+
+*Проверка Telnet с R2 на R3*
+
+## Шаг 9.
+
+<img width="719" height="738" alt="изображение" src="https://github.com/user-attachments/assets/c196f1dd-4ff6-4787-a08e-a5ef7dad48e0" />
+
+*Смена пароля*
+
+
+
 
 
 
