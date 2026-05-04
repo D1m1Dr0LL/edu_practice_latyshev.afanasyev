@@ -52,3 +52,18 @@
 
 *user_f2.sh*
 
+## Шаг 10. 
+
+<img width="1614" height="109" alt="изображение" src="https://github.com/user-attachments/assets/a4bf4df5-f203-4233-8a24-33c4f3384b6f" />
+
+*finder_liight.sh*
+
+## Шаг 11.
+
+<img width="1301" height="69" alt="изображение" src="https://github.com/user-attachments/assets/2bcc09af-6681-4528-b380-c6202df77f20" />
+
+*math.sh*
+
+## шаг 12. 
+
+ 
