@@ -64,6 +64,39 @@
 
 *math.sh*
 
-## шаг 12. 
+## Шаг 12. 
 
- 
+ <img width="1477" height="126" alt="изображение" src="https://github.com/user-attachments/assets/e0c52c6c-a93d-4416-bab6-52f34720ad81" />
+
+*sort.sh*
+
+## Шаг 13.
+
+<img width="1390" height="86" alt="изображение" src="https://github.com/user-attachments/assets/2614781a-1179-4b18-b67d-7f3ccf5e7af8" />
+
+*io.sh*
+
+## Шаг 14.
+
+<img width="1395" height="79" alt="изображение" src="https://github.com/user-attachments/assets/0217e4bc-88ea-4556-aae6-f96a9c8e3b69" />
+
+*user_use.sh*
+
+## Шаг 15.
+
+<img width="1345" height="144" alt="изображение" src="https://github.com/user-attachments/assets/e446d8a8-8dac-49f9-b90a-2e221bb8dad7" />
+
+*sort_du.sh*
+
+
+## Шаг 16.
+
+<img width="1307" height="120" alt="изображение" src="https://github.com/user-attachments/assets/56756a71-f409-4b6f-90c0-63e8d742c5da" />
+
+*dir_info.sh*
+
+## Шаг 17. 
+
+<img width="1497" height="169" alt="изображение" src="https://github.com/user-attachments/assets/6353903b-6ef1-4d60-81d2-2031a868bbd0" />
+
+*bash_history.sh*
